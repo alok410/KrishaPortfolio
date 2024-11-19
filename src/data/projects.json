@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Recipe Book Application     (Frontend+Backend) ",
+    "imageSrc": "projects/project.png",
+    "description": "The Recipe Book project focuses on simplifying the management of recipes and ingredients Users can add edit and organize recipes.",
+    "skills": ["React", "Django","SQLite"," Authentication: JWT(JSON Web Tokens)"],
+    "source": " https://krisha149.github.io/Recipe-Book-/"
+  },
+  {
+    "title": "Memory-Game     (Frontend+Database) ",
+    "imageSrc": "projects/project.png",
+    "description":"A Java based memory game project includes multiple levels and a scoreboard to track player performance.                ",
+    "skills": ["Java","MySQL"],
+    "source": "https://github.com/Krisha149/Memory-Game "
+  },
+  {
+    "title": "Pharmacy Management System     (Frontend+Database)",
+    "imageSrc": "projects/project.png",
+    "description": " A Pharmacy Management System built using Python and Tkinter enables users to add, update, delete,and search pharmacy items, including name, price, quantity, category, discount.",
+    "skills": ["Python GUI","MySQL"],
+    "source": "https://github.com/Krisha149/Pharmacy-Management-System"
+  }
+]
